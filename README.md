@@ -1,6 +1,9 @@
 # data_visualization_proj
 我的作品主題為「世界各國城市土地面積及人口數」，我所要呈現的資料就是各個國家的城市所占總土地面積，以及居住在這些城市裡的人口數。  
-資料來源為The World Bank網站，其中各國城市面積取自 http://data.worldbank.org/indicator/AG.LND.TOTL.UR.K2?end=2010&start=1990 ，由於最新資料時間為2010年，且觀察與1990年之資料內容並無太大的差異，因此推測各國城市面積在近年來並無太大的變化，選擇呈現2010年之資料並不會太過時；城市人口數則取自 http://data.worldbank.org/indicator/SP.URB.TOTL?end=2015&start=2010 ，配合土地面積資料而選擇2010年之資料內容。    
+資料來源為The World Bank網站，其中各國城市面積取自 http://data.worldbank.org/indicator/AG.LND.TOTL.UR.K2?end=2010&start=1990 ，由於最新資料時間為2010年，且觀察與1990年之資料內容並無太大的差異，因此推測各國城市面積在近年來並無太大的變化，選擇呈現2010年之資料並不會太過時；城市人口數則取自 http://data.worldbank.org/indicator/SP.URB.TOTL?end=2015&start=2010 ，配合土地面積資料而選擇2010年之資料內容。 
+  
+# 目的  
+將無聊的數據資料透過視覺化呈現給一般大眾，讓讀者能夠一眼看出這張圖表所要表達的內容，季淺顯易懂同時又令人印象深刻。  
 
 # 使用技術
 我所使用的工具為D3.js，它是一套JavaScript的函式庫，D3的全名為Data-Driven Documents，亦即透過資料來驅動文件，且使用者能根據自己的需求作相當彈性的操作，對於資料視覺化是一項很好的輔助工具。  
